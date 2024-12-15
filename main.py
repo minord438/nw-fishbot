@@ -27,7 +27,7 @@ SDFG
     moveDirection = ["a", "d"]
 
     # Free cam key
-    freeCamKey = "alt"
+    freeCamKey = "alt"SDFGSDF
 aedrfvgaerdfwerdvfcqaEWRDFVCQAewdervqcfaWEDFCVQAERDFCV
     # Finds all Windows with the title "New World"
     newWorldWindows = pyautogui.getWindowsWithTitle("New World")
