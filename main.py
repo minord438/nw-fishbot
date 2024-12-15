@@ -12,7 +12,7 @@ def main():SDFGSDFSDFGSDFG
     Main function for the program
     """fedcvaedRGQVERGVQWAERGVFWAQER
     # Max cast is 1.9 secsawfsgvasefdgasWERGBVWSERFGVBSDFGSDFG
-    # Base time it will always cast atasdcx aZSDqergfvqwaerdfvgqwWERTFGVSWERFGVBSDFG
+    # Base time it will always cast atasdcx aZSDqergfvqwaerdfvgqwWERTFGVSWERFGVBSDFGGSDFASDFG
     castingBaseTime = 1.0
     # Max random amount of time to add to the baseasdfgvasdgfdaerfvaedrcfv
     castingRandom = .4sdcv aSDG
