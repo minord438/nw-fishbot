@@ -1,4 +1,4 @@
-Qimport pyautogui
+SQimport pyautogui
 import pydirectinput
 import time
 import random
@@ -31,7 +31,7 @@ SDFG
 aedrfvgaerdfwerdvfcqaEWRDFVCQAewdervqcfaWEDFCVQAERDFCV
     # Finds all Windows with the title "New World"
     newWorldWindows = pyautogui.getWindowsWithTitle("New World")
-WQAERVGFWAESRFVGWSAREFTGVB
+WQAERVGFWAESRFVGWSAREFTGVBDFGSDFGSD
     for window in newWorldWindows:
         if window.title == "New World":
 TREFBGVW            newWorldWindow = window
