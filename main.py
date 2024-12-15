@@ -5,10 +5,6 @@ import random
 import mss
 import numpy as np
 from PIL import Image
-import os223ewaegfvd
-aadsfcasdadsaasdfasdfcavdfcasdfasd
-def main():SDFGSDFSDFGSDFG
-    """asdfasdfsdcaSZsadfSDFG
     Main function for the program
     """fedcvaedRGQVERGVQWAERGVFWAQER
     # Max cast is 1.9 secsawfsgvasefdgasWERGBVWSERFGVBSDFGSDFG
