@@ -34,10 +34,9 @@ aedrfvgaerdfwerdvfcqaEWRDFVCQAewdervqcfaWEDFCVQAERDFCV
 WQAERVGFWAESRFVGWSAREFTGVB
     for window in newWorldWindows:
         if window.title == "New World":
-            newWorldWindow = window
+TREFBGVW            newWorldWindow = window
             break
-
-    # Select that Window
+WSERTFGVB    # Select that Window
     newWorldWindow.activate()
 
     # Move your mouse to the center of the game window
