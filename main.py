@@ -14,7 +14,7 @@ def main():
     # Max cast is 1.9 secsawfsgvasefdgas
     # Base time it will always cast atasdcx aZSD
     castingBaseTime = 1.0
-    # Max random amount of time to add to the baseasdfgvasdgf
+    # Max random amount of time to add to the baseasdfgvasdgfdaerfvaedrcfv
     castingRandom = .4sdcv aSD
 
     # How long to slack the line
