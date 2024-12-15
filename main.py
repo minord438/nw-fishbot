@@ -15,7 +15,7 @@ def main():
     # Base time it will always cast atasdcx aZSDqergfvqwaerdfvgqwWERTFGVSWERFGVB
     castingBaseTime = 1.0
     # Max random amount of time to add to the baseasdfgvasdgfdaerfvaedrcfv
-    castingRandom = .4sdcv aSD
+    castingRandom = .4sdcv aSDG
 qergdfvqwaerddqaergvfqawerdfvgaqwer
     # How long to slack the lineaerdvgqaerdvg
     lineSlackTime = 1.5
