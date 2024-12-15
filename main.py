@@ -1,47 +1,45 @@
-import pyautogui
+SQimport pyautogui
 import pydirectinput
 import time
 import random
 import mss
 import numpy as np
 from PIL import Image
-import os223ew
-
-def main():
-    """
+import os223ewaegfvd
+aadsfcasdadsaasdfasdfcavdfcasdfasd
+def main():SDFGSDFSDFGSDFG
+    """asdfasdfsdcaSZsadfSDFG
     Main function for the program
-    """
-    # Max cast is 1.9 secs
-    # Base time it will always cast at
+    """fedcvaedRGQVERGVQWAERGVFWAQER
+    # Max cast is 1.9 secsawfsgvasefdgasWERGBVWSERFGVBSDFGSDFG
+    # Base time it will always cast atasdcx aZSDqergfvqwaerdfvgqwWERTFGVSWERFGVBSDFGGSDFASDFG
     castingBaseTime = 1.0
-    # Max random amount of time to add to the base
-    castingRandom = .4
-
-    # How long to slack the line
+    # Max random amount of time to add to the baseasdfgvasdgfdaerfvaedrcfv
+    castingRandom = .4sdcv aSDG
+qergdfvqwaerddqaergvfqawerdfvgaqwerASDFASDFASD
+    # How long to slack the SDFG
     lineSlackTime = 1.5
+SDFG
+    # Adding randomness to the wait times for the animationsaerdfvcaer
+    animationSleepTime = .1 + (.1 * random.random())qarevgaerdvgwear
 
-    # Adding randomness to the wait times for the animations
-    animationSleepTime = .1 + (.1 * random.random())
-
-    # Randomly will move right or left to keep from AFKing
+    # Randomly will move right or left to keep from AFKingqaewrdfgvwqaerdfgv
     moveDirection = ["a", "d"]
 
     # Free cam key
-    freeCamKey = "alt"
-
+    freeCamKey = "alt"SDFGSDF
+aedrfvgaerdfwerdvfcqaEWRDFVCQAewdervqcfaWEDFCVQAERDFCV
     # Finds all Windows with the title "New World"
     newWorldWindows = pyautogui.getWindowsWithTitle("New World")
-
-    # Find the Window titled exactly "New World" (typically the actual game)
+WQAERVGFWAESRFVGWSAREFTGVBDFGSDFGSD
     for window in newWorldWindows:
         if window.title == "New World":
-            newWorldWindow = window
-            break
-
-    # Select that Window
+TREFBGVW            newWorldWindow = window
+            breakSDFGSDFG
+WSERTFGVB    # Select that Window
     newWorldWindow.activate()
 
-    # Move your mouse to the center of the game window
+    # Move your mouse to the center of the game windowSDFGSDFG
     centerW = newWorldWindow.left + (newWorldWindow.width/2)
     centerH = newWorldWindow.top + (newWorldWindow.height/2)
     pyautogui.moveTo(centerW, centerH)
