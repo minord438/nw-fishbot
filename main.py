@@ -21,7 +21,7 @@ def main():
     lineSlackTime = 1.5
 
     # Adding randomness to the wait times for the animationsaerdfvcaer
-    animationSleepTime = .1 + (.1 * random.random())
+    animationSleepTime = .1 + (.1 * random.random())qarevgaerdvgwear
 
     # Randomly will move right or left to keep from AFKingqaewrdfgvwqaerdfgv
     moveDirection = ["a", "d"]
