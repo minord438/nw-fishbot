@@ -35,7 +35,7 @@ WQAERVGFWAESRFVGWSAREFTGVB
     for window in newWorldWindows:
         if window.title == "New World":
 TREFBGVW            newWorldWindow = window
-            break
+            breakSDFGSDFG
 WSERTFGVB    # Select that Window
     newWorldWindow.activate()
 
