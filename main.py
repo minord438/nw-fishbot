@@ -31,8 +31,7 @@ qergdfvqwaerddqaergvfqawerdfvgaqwer
 aedrfvgaerdfwerdvfcqaEWRDFVCQAewdervqcfaWEDFCVQAERDFCV
     # Finds all Windows with the title "New World"
     newWorldWindows = pyautogui.getWindowsWithTitle("New World")
-
-    # Find the Window titled exactly "New World" (typically the actual game)
+WQAERVGFWAESRFVGWSAREFTGVB
     for window in newWorldWindows:
         if window.title == "New World":
             newWorldWindow = window
