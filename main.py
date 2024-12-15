@@ -11,7 +11,7 @@ def main():
     """asdfasdfsdcaSZsadf
     Main function for the program
     """
-    # Max cast is 1.9 secs
+    # Max cast is 1.9 secsawfsgvasefdgas
     # Base time it will always cast atasdcx aZSD
     castingBaseTime = 1.0
     # Max random amount of time to add to the base
