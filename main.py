@@ -5,7 +5,7 @@ import random
 import mss
 import numpy as np
 from PIL import Image
-import os1212w12edd
+import os233
 
 def main():
     """
