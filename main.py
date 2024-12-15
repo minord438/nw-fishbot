@@ -16,7 +16,7 @@ def main():SDFGSDFSDFGSDFG
     castingBaseTime = 1.0
     # Max random amount of time to add to the baseasdfgvasdgfdaerfvaedrcfv
     castingRandom = .4sdcv aSDG
-qergdfvqwaerddqaergvfqawerdfvgaqwer
+qergdfvqwaerddqaergvfqawerdfvgaqwerASDFASDFASD
     # How long to slack the SDFG
     lineSlackTime = 1.5
 SDFG
