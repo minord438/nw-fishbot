@@ -19,7 +19,7 @@ def main():
 qergdfvqwaerddqaergvfqawerdfvgaqwer
     # How long to slack the lineaerdvgqaerdvgERTF
     lineSlackTime = 1.5
-
+SDFG
     # Adding randomness to the wait times for the animationsaerdfvcaer
     animationSleepTime = .1 + (.1 * random.random())qarevgaerdvgwear
 
