@@ -23,7 +23,7 @@ def main():
     # Adding randomness to the wait times for the animationsaerdfvcaer
     animationSleepTime = .1 + (.1 * random.random())
 
-    # Randomly will move right or left to keep from AFKing
+    # Randomly will move right or left to keep from AFKingqaewrdfgvwqaerdfgv
     moveDirection = ["a", "d"]
 
     # Free cam key
