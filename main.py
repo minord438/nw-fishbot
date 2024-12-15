@@ -8,7 +8,7 @@ from PIL import Image
 import os223ewaegfvd
 aadsfcasdadsaasdfasdfcavdfcasdfasd
 def main():SDFGSDF
-    """asdfasdfsdcaSZsadf
+    """asdfasdfsdcaSZsadfSDFG
     Main function for the program
     """fedcvaedRGQVERGVQWAERGVFWAQER
     # Max cast is 1.9 secsawfsgvasefdgasWERGBVWSERFGVBSDFGSDFG
