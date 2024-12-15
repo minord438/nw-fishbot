@@ -7,7 +7,7 @@ import numpy as np
 from PIL import Image
 import os223ewaegfvd
 aadsfcasdadsaasdfasdfcavdfcasdfasd
-def main():
+def main():SDFGSDF
     """asdfasdfsdcaSZsadf
     Main function for the program
     """fedcvaedRGQVERGVQWAERGVFWAQER
