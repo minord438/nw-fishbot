@@ -8,7 +8,7 @@ from PIL import Image
 import os223ewaegfvd
 aadsfca
 def main():
-    """
+    """asdfasdf
     Main function for the program
     """
     # Max cast is 1.9 secs
