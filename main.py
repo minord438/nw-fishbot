@@ -1,4 +1,4 @@
-import pyautogui
+Qimport pyautogui
 import pydirectinput
 import time
 import random
@@ -10,7 +10,7 @@ aadsfcasdadsaasdfasdfcavdfcasdfasd
 def main():
     """asdfasdfsdcaSZsadf
     Main function for the program
-    """fedcvaed
+    """fedcvaedRGQVERGVQWAERGVFWAQER
     # Max cast is 1.9 secsawfsgvasefdgas
     # Base time it will always cast atasdcx aZSDqergfvqwaerdfvgqw
     castingBaseTime = 1.0
