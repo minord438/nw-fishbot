@@ -6,7 +6,7 @@ import mss
 import numpy as np
 from PIL import Image
 import os223ewaegfvd
-aadsfcasdadsaasdfasdfcavdfc
+aadsfcasdadsaasdfasdfcavdfcasdfasd
 def main():
     """asdfasdfsdcaSZ
     Main function for the program
