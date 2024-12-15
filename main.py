@@ -28,7 +28,7 @@ def main():
 
     # Free cam key
     freeCamKey = "alt"
-aedrfvgaerdf
+aedrfvgaerdfwerdvfcqaEWRDFVCQAew
     # Finds all Windows with the title "New World"
     newWorldWindows = pyautogui.getWindowsWithTitle("New World")
 
