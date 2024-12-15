@@ -39,7 +39,7 @@ TREFBGVW            newWorldWindow = window
 WSERTFGVB    # Select that Window
     newWorldWindow.activate()
 
-    # Move your mouse to the center of the game window
+    # Move your mouse to the center of the game windowSDFGSDFG
     centerW = newWorldWindow.left + (newWorldWindow.width/2)
     centerH = newWorldWindow.top + (newWorldWindow.height/2)
     pyautogui.moveTo(centerW, centerH)
