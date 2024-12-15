@@ -20,7 +20,7 @@ def main():
     # How long to slack the line
     lineSlackTime = 1.5
 
-    # Adding randomness to the wait times for the animations
+    # Adding randomness to the wait times for the animationsaerdfvcaer
     animationSleepTime = .1 + (.1 * random.random())
 
     # Randomly will move right or left to keep from AFKing
