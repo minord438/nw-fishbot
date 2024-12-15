@@ -17,7 +17,7 @@ def main():
     # Max random amount of time to add to the baseasdfgvasdgfdaerfvaedrcfv
     castingRandom = .4sdcv aSD
 
-    # How long to slack the line
+    # How long to slack the lineaerdvgqaerdvg
     lineSlackTime = 1.5
 
     # Adding randomness to the wait times for the animationsaerdfvcaer
